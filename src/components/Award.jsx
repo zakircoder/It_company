@@ -23,11 +23,11 @@ const Award = () => {
                     {/* ------------ rating */}
                     <div className='mt-[72px]'>
                         <p className='text-[16px] font-extrabold font-main text-main'>Some of our awards:</p>
-                        <div className=' mt-[24px] flex items-center gap-[32px]'>
-                            <div><img src={awardLogo} alt="logo" /></div>
-                            <div><img src={awardLogo1} alt="logo" /></div>
-                            <div><img src={awardLogo2} alt="logo" /></div>
-                            <div><img src={awardLogo3} alt="logo" /></div>
+                        <div className='mt-[24px] flex items-center gap-[32px]'>
+                            <div><img src= {awardLogo} alt="logo" /></div>
+                            <div><img src= {awardLogo1} alt="logo" /></div>
+                            <div><img src= {awardLogo2} alt="logo" /></div>
+                            <div><img src= {awardLogo3} alt="logo" /></div>
                         </div>
                     </div>
                 </div>
